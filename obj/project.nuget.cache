@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pAQMlhjON/iepS42L+QTtfrvH222KuQQ1OwULw5XQi3Bj3c7IeZN1mnxQb3N8zTu1LT7LIZgnW5tKkPnRgXsLw==",
+  "dgSpecHash": "a23AfssyJ32JQSOLTJYIehYuVVoKotoIdcoewKSd7mPQUb5P/KcbeGi9GHzkHNuhXG4NwuKeKNKDO6Yjp4fXdA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Heber\\Source\\Repos\\Mission11_BookSite\\BookSite2.0.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Heber\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.22\\microsoft.aspnetcore.cryptography.internal.3.1.22.nupkg.sha512",
+    "C:\\Users\\Heber\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.22\\microsoft.aspnetcore.cryptography.keyderivation.3.1.22.nupkg.sha512",
+    "C:\\Users\\Heber\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.22\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.22.nupkg.sha512",
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -25,6 +28,8 @@
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\Heber\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.22\\microsoft.extensions.identity.core.3.1.22.nupkg.sha512",
+    "C:\\Users\\Heber\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.22\\microsoft.extensions.identity.stores.3.1.22.nupkg.sha512",
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.extensions.logging\\3.1.22\\microsoft.extensions.logging.3.1.22.nupkg.sha512",
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
     "C:\\Users\\Heber\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
